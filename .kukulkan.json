@@ -1,0 +1,16 @@
+{
+  "id" : "cnbv",
+  "packaging" : "mx.gob.cnbv",
+  "version" : "0.0.1",
+  "author" : "kukulkan",
+  "year" : "2018",
+  "targetDatabase" : {
+    "databaseType" : "NO_SQL_MONGODB",
+    "globalGenerationType" : "SEQUENCE"
+  },
+  "layers" : [ "angular-js", "spring-rest", "spring-service", "spring-repository", "domain-core" ],
+  "layersToProcess" : [ ],
+  "entities" : [ ],
+  "timestamp" : "2018-09-13T02:30:05.698",
+  "plugins" : [ ]
+}
